@@ -28,3 +28,14 @@ Manual
 
 *** Our application decides good or bad posture based on a normal holding style. Some people might be comfortable with their own style, so don’t take the result too seriously.
 
+Made by 
+
+Mr.Patt Pootrakul
+
+Mr.Pawaris Panyasombat
+
+Mr.Thritsadi Chukiatsiri
+
+Mr.Yuichi
+
+Mr.Kota 
